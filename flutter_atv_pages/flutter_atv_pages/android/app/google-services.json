@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20466478629",
+    "project_id": "taskshop-app",
+    "storage_bucket": "taskshop-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20466478629:android:2eed87719a81930d42d9cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_atv_pages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0gaibcukvxpNc9guKutoGOof1-ojJRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
